@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/57399e54c8e2485ba26bf62e79efc267/artifacts
+end_time: 1726052933577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57399e54c8e2485ba26bf62e79efc267
+run_name: unleashed-seal-873
+run_uuid: 57399e54c8e2485ba26bf62e79efc267
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726052872820
+status: 3
+tags: []
+user_id: sjsis

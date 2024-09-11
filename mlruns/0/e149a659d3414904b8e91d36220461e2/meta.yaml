@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e149a659d3414904b8e91d36220461e2/artifacts
+end_time: 1725996260447
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e149a659d3414904b8e91d36220461e2
+run_name: rogue-cat-567
+run_uuid: e149a659d3414904b8e91d36220461e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725996238619
+status: 3
+tags: []
+user_id: sjsis

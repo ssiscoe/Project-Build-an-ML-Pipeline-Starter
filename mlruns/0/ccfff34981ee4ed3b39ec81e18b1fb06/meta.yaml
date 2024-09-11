@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ccfff34981ee4ed3b39ec81e18b1fb06/artifacts
+end_time: 1726051546533
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ccfff34981ee4ed3b39ec81e18b1fb06
+run_name: intelligent-wren-970
+run_uuid: ccfff34981ee4ed3b39ec81e18b1fb06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726051246103
+status: 4
+tags: []
+user_id: sjsis

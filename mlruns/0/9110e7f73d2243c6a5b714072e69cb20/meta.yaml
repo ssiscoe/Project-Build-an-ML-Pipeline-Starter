@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9110e7f73d2243c6a5b714072e69cb20/artifacts
+end_time: 1726051388723
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9110e7f73d2243c6a5b714072e69cb20
+run_name: carefree-mare-97
+run_uuid: 9110e7f73d2243c6a5b714072e69cb20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726051299795
+status: 4
+tags: []
+user_id: sjsis

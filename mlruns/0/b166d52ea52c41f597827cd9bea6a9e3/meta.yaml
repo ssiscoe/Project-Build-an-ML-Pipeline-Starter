@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b166d52ea52c41f597827cd9bea6a9e3/artifacts
+end_time: 1724265748446
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b166d52ea52c41f597827cd9bea6a9e3
+run_name: trusting-trout-411
+run_uuid: b166d52ea52c41f597827cd9bea6a9e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724265742617
+status: 3
+tags: []
+user_id: sjsis

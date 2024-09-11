@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1a79226d01054bbab4a6c6380cdff1ab/artifacts
+end_time: 1724266787629
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a79226d01054bbab4a6c6380cdff1ab
+run_name: youthful-sloth-69
+run_uuid: 1a79226d01054bbab4a6c6380cdff1ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724266615527
+status: 3
+tags: []
+user_id: sjsis

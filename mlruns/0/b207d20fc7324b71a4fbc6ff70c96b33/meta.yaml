@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b207d20fc7324b71a4fbc6ff70c96b33/artifacts
+end_time: 1725996341406
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b207d20fc7324b71a4fbc6ff70c96b33
+run_name: smiling-frog-574
+run_uuid: b207d20fc7324b71a4fbc6ff70c96b33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725996305634
+status: 3
+tags: []
+user_id: sjsis

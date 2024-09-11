@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bbce7d4db65242e6a7f85466500e154c/artifacts
+end_time: 1725996302141
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bbce7d4db65242e6a7f85466500e154c
+run_name: mercurial-snake-538
+run_uuid: bbce7d4db65242e6a7f85466500e154c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725996277027
+status: 3
+tags: []
+user_id: sjsis

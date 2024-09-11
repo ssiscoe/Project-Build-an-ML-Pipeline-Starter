@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ff9ebd48fa014ea789ec8ab0cff8544b/artifacts
+end_time: 1726051097372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff9ebd48fa014ea789ec8ab0cff8544b
+run_name: peaceful-chimp-105
+run_uuid: ff9ebd48fa014ea789ec8ab0cff8544b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726051084806
+status: 4
+tags: []
+user_id: sjsis

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a5740ed8b16247b084361a66245cc08a/artifacts
+end_time: 1726052274631
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5740ed8b16247b084361a66245cc08a
+run_name: rebellious-worm-327
+run_uuid: a5740ed8b16247b084361a66245cc08a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726052185756
+status: 4
+tags: []
+user_id: sjsis

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8185aa711cd741df8f3f32e1d78be377/artifacts
+end_time: 1725996302502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8185aa711cd741df8f3f32e1d78be377
+run_name: mercurial-yak-558
+run_uuid: 8185aa711cd741df8f3f32e1d78be377
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725996263762
+status: 3
+tags: []
+user_id: sjsis

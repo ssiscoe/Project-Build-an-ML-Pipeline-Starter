@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/662e37dd969b44b8b6cb0b85f93e96ae/artifacts
+end_time: 1724268518352
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 662e37dd969b44b8b6cb0b85f93e96ae
+run_name: thundering-jay-364
+run_uuid: 662e37dd969b44b8b6cb0b85f93e96ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724268433315
+status: 4
+tags: []
+user_id: sjsis

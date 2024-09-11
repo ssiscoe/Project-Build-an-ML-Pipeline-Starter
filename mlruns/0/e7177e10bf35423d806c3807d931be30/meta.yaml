@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e7177e10bf35423d806c3807d931be30/artifacts
+end_time: 1725996260776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7177e10bf35423d806c3807d931be30
+run_name: adaptable-whale-167
+run_uuid: e7177e10bf35423d806c3807d931be30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725996227008
+status: 3
+tags: []
+user_id: sjsis

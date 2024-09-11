@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/617917be5cc140278c1a931f9113d4a7/artifacts
+end_time: 1725996341062
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 617917be5cc140278c1a931f9113d4a7
+run_name: unruly-croc-614
+run_uuid: 617917be5cc140278c1a931f9113d4a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725996316587
+status: 3
+tags: []
+user_id: sjsis

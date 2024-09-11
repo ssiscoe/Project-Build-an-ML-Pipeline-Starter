@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d4523b17f9394d4ba42e33cad63c36d7/artifacts
+end_time: 1726051299678
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4523b17f9394d4ba42e33cad63c36d7
+run_name: glamorous-shrew-658
+run_uuid: d4523b17f9394d4ba42e33cad63c36d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726051249362
+status: 4
+tags: []
+user_id: sjsis

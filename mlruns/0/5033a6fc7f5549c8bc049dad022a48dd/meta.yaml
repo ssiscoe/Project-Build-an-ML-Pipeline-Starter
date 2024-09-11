@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5033a6fc7f5549c8bc049dad022a48dd/artifacts
+end_time: 1725997441731
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5033a6fc7f5549c8bc049dad022a48dd
+run_name: fun-quail-119
+run_uuid: 5033a6fc7f5549c8bc049dad022a48dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725997434965
+status: 4
+tags: []
+user_id: sjsis

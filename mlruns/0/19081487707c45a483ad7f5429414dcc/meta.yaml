@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/19081487707c45a483ad7f5429414dcc/artifacts
+end_time: 1725997778375
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19081487707c45a483ad7f5429414dcc
+run_name: clean-flea-401
+run_uuid: 19081487707c45a483ad7f5429414dcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725997770765
+status: 4
+tags: []
+user_id: sjsis

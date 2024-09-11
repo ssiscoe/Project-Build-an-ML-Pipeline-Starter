@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/27cbfc89300345ecbf10ebb8db8f9788/artifacts
+end_time: 1724264569023
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27cbfc89300345ecbf10ebb8db8f9788
+run_name: awesome-gull-211
+run_uuid: 27cbfc89300345ecbf10ebb8db8f9788
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724264564104
+status: 3
+tags: []
+user_id: sjsis

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a65b920403854549931d1e1957eca1e5/artifacts
+end_time: 1725998308434
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a65b920403854549931d1e1957eca1e5
+run_name: bouncy-pug-414
+run_uuid: a65b920403854549931d1e1957eca1e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725998301043
+status: 4
+tags: []
+user_id: sjsis

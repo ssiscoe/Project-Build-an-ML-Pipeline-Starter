@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2094f9198d2f4509976839782921ea6e/artifacts
+end_time: 1726052472120
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2094f9198d2f4509976839782921ea6e
+run_name: respected-pug-989
+run_uuid: 2094f9198d2f4509976839782921ea6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726052333629
+status: 4
+tags: []
+user_id: sjsis

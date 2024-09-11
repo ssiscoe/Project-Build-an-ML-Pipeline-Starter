@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cd777ef6b0a64eabafb61d10e7269132/artifacts
+end_time: 1726053206200
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd777ef6b0a64eabafb61d10e7269132
+run_name: thoughtful-cub-932
+run_uuid: cd777ef6b0a64eabafb61d10e7269132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726053100415
+status: 3
+tags: []
+user_id: sjsis

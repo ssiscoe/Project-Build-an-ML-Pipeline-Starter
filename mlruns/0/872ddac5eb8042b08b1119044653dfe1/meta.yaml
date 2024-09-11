@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/872ddac5eb8042b08b1119044653dfe1/artifacts
+end_time: 1724268916189
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 872ddac5eb8042b08b1119044653dfe1
+run_name: handsome-fox-238
+run_uuid: 872ddac5eb8042b08b1119044653dfe1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724268833013
+status: 4
+tags: []
+user_id: sjsis

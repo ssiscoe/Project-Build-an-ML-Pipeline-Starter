@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0290e3487e12438285ee72018b685913/artifacts
+end_time: 1726048870382
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0290e3487e12438285ee72018b685913
+run_name: glamorous-robin-349
+run_uuid: 0290e3487e12438285ee72018b685913
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726048865048
+status: 4
+tags: []
+user_id: sjsis

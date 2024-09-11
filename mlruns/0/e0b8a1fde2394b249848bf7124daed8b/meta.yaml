@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e0b8a1fde2394b249848bf7124daed8b/artifacts
+end_time: 1724265987869
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0b8a1fde2394b249848bf7124daed8b
+run_name: abrasive-dove-664
+run_uuid: e0b8a1fde2394b249848bf7124daed8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724265968105
+status: 3
+tags: []
+user_id: sjsis

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1680f60f34b44d4a9f5f62b2742f5796/artifacts
+end_time: 1724266787302
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1680f60f34b44d4a9f5f62b2742f5796
+run_name: capable-colt-124
+run_uuid: 1680f60f34b44d4a9f5f62b2742f5796
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724266621275
+status: 3
+tags: []
+user_id: sjsis

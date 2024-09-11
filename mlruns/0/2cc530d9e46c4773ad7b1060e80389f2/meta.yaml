@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2cc530d9e46c4773ad7b1060e80389f2/artifacts
+end_time: 1726051084687
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2cc530d9e46c4773ad7b1060e80389f2
+run_name: masked-kite-347
+run_uuid: 2cc530d9e46c4773ad7b1060e80389f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726051072525
+status: 4
+tags: []
+user_id: sjsis

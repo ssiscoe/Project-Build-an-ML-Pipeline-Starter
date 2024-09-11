@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0da307e6a21a48e6a9569c975e5765c4/artifacts
+end_time: 1724265988245
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0da307e6a21a48e6a9569c975e5765c4
+run_name: shivering-hare-131
+run_uuid: 0da307e6a21a48e6a9569c975e5765c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724265956972
+status: 3
+tags: []
+user_id: sjsis

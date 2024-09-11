@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5c6c42605e3342f1b203367935ea7092/artifacts
+end_time: 1726051445861
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c6c42605e3342f1b203367935ea7092
+run_name: exultant-auk-940
+run_uuid: 5c6c42605e3342f1b203367935ea7092
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726051388845
+status: 4
+tags: []
+user_id: sjsis

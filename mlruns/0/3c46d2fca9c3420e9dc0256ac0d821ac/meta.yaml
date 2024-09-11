@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3c46d2fca9c3420e9dc0256ac0d821ac/artifacts
+end_time: 1726051072410
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c46d2fca9c3420e9dc0256ac0d821ac
+run_name: funny-grouse-20
+run_uuid: 3c46d2fca9c3420e9dc0256ac0d821ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726051001475
+status: 4
+tags: []
+user_id: sjsis

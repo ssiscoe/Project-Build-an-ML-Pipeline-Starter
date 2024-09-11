@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/042d3f6f9406479f9221cbeba66feb32/artifacts
+end_time: 1724265999665
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 042d3f6f9406479f9221cbeba66feb32
+run_name: shivering-crane-383
+run_uuid: 042d3f6f9406479f9221cbeba66feb32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724265994816
+status: 3
+tags: []
+user_id: sjsis

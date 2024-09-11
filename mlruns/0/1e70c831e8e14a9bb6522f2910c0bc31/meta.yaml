@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1e70c831e8e14a9bb6522f2910c0bc31/artifacts
+end_time: 1726049585377
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e70c831e8e14a9bb6522f2910c0bc31
+run_name: thundering-kite-462
+run_uuid: 1e70c831e8e14a9bb6522f2910c0bc31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726049575345
+status: 4
+tags: []
+user_id: sjsis

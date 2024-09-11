@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/12edb84408f0476688d5ac2cbdc8349c/artifacts
+end_time: 1726051110588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12edb84408f0476688d5ac2cbdc8349c
+run_name: defiant-doe-521
+run_uuid: 12edb84408f0476688d5ac2cbdc8349c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726050998767
+status: 4
+tags: []
+user_id: sjsis

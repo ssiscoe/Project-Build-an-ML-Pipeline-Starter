@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e9063a165ab647b7b782840923c8d625/artifacts
+end_time: 1726053206425
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9063a165ab647b7b782840923c8d625
+run_name: fun-perch-849
+run_uuid: e9063a165ab647b7b782840923c8d625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726052869985
+status: 3
+tags: []
+user_id: sjsis

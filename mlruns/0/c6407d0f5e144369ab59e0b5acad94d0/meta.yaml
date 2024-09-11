@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c6407d0f5e144369ab59e0b5acad94d0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6407d0f5e144369ab59e0b5acad94d0
+run_name: salty-kit-689
+run_uuid: c6407d0f5e144369ab59e0b5acad94d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724268439721
+status: 1
+tags: []
+user_id: sjsis

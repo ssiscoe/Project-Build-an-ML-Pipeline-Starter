@@ -1,0 +1,85 @@
+{
+    "os": "Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.10.0",
+    "heartbeatAt": "2024-09-11T19:10:30.320702",
+    "startedAt": "2024-09-11T19:10:29.246198",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--mlflow_model",
+        "random_forest_export:prod",
+        "--test_dataset",
+        "test_data.csv:latest"
+    ],
+    "state": "running",
+    "program": "/home/sjsis/Project-Build-an-ML-Pipeline-Starter/components/test_regression_model/run.py",
+    "codePathLocal": "run.py",
+    "codePath": "components/test_regression_model/run.py",
+    "git": {
+        "remote": "https://github.com/ssiscoe/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "0936351046db1e8e7587aa16f516b26a9374b3da"
+    },
+    "email": null,
+    "root": "/home/sjsis/Project-Build-an-ML-Pipeline-Starter",
+    "host": "LAPTOP-2UQMFE7K",
+    "username": "sjsis",
+    "executable": "/home/sjsis/miniconda3/envs/mlflow-13989936c7a17c81721214f5ae54dc64c8de7bb3/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1896.0059999999999,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1896.006,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.006,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.006,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.006,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.006,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.006,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.006,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.006,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 15.184417724609375
+        }
+    },
+    "memory": {
+        "total": 7.636753082275391
+    }
+}

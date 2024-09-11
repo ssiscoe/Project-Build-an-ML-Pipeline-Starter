@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cc623a8c47f146cc9c65c7c6d76315ef/artifacts
+end_time: 1724263683570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc623a8c47f146cc9c65c7c6d76315ef
+run_name: brawny-dove-553
+run_uuid: cc623a8c47f146cc9c65c7c6d76315ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724263679345
+status: 3
+tags: []
+user_id: sjsis

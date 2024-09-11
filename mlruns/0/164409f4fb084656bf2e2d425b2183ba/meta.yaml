@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/164409f4fb084656bf2e2d425b2183ba/artifacts
+end_time: 1726084644019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 164409f4fb084656bf2e2d425b2183ba
+run_name: debonair-dolphin-959
+run_uuid: 164409f4fb084656bf2e2d425b2183ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726084613114
+status: 3
+tags: []
+user_id: sjsis

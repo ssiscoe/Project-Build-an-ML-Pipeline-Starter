@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/72a0c41e95104a158a9da12d34eeb791/artifacts
+end_time: 1723596610113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72a0c41e95104a158a9da12d34eeb791
+run_name: whimsical-smelt-456
+run_uuid: 72a0c41e95104a158a9da12d34eeb791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723596590152
+status: 3
+tags: []
+user_id: sjsis

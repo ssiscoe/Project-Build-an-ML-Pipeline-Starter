@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sjsis/Project-Build-an-ML-Pipeline-Starter/mlruns/0/669049b8d5034662924a8131c2f6aa33/artifacts
+end_time: 1723596609867
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 669049b8d5034662924a8131c2f6aa33
+run_name: flawless-flea-270
+run_uuid: 669049b8d5034662924a8131c2f6aa33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723596594174
+status: 3
+tags: []
+user_id: sjsis
